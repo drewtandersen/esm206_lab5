@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+*.html
+# asterisk means ognore everything with this ending
